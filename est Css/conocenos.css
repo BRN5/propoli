@@ -1,0 +1,88 @@
+body{
+    background:rgb(214, 186, 236);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10;
+    padding: 10;
+    display: flex; 
+    min-height: 100vh;
+    flex-wrap: wrap;
+
+
+
+}
+
+
+
+
+.h{
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+.t2{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+.m{
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.t3{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.v{
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.t4{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+
+.c {font-size: 50px;
+    list-style-type:none;
+    padding: 0;
+
+
+}
+
+.volver{
+    position: relative;
+    top: 40px;
+    right: 5px;
+
+
+}
+
+a{
+    text-align: none;
+
+}
+
+a input{
+    display:inline-block;
+    font: size 100px;
+    width: 200px;
+    height: 100px;
+    padding: auto;
+    font-size: 25px;
+    font-family:cursive;
+    background-color:cyan;
+    border:solid 2px burlywood
+    
+}
